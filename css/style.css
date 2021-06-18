@@ -1,0 +1,6 @@
+input:valid {
+  background-color: aqua;
+}
+input:invalid {
+  background-color: coral;
+}
